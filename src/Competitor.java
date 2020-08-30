@@ -5,6 +5,7 @@ public class Competitor {
     private LinkedList<Double> firstRoundResults;
     private LinkedList<Integer> positions;
     private LinkedList<Double> secondRoundResults;
+    private int points;
 
     public Competitor(String name) {
         this.name = name;
@@ -32,8 +33,8 @@ public class Competitor {
         positions.add(position);
     }
 
-    public int getPoints() {
-        int points = 0;
+    public int getAndTallyPoints() {
+        points = 0;
         for (int temp : positions) {
             if (temp == 1) {
                 points += 4;
@@ -58,6 +59,10 @@ public class Competitor {
             }
         }
 
+        return points;
+    }
+
+    public int getPoints(){
         return points;
     }
 

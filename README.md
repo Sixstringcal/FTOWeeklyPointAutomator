@@ -12,7 +12,9 @@ Name,average
 Name,average  
 end of round  
 
-An example input would be as follows (using data from August 30th 2020):  
+Note: results must be entered in the order they place.  For example: someone with an average of 30 must be below someone with an average of 29 for each round.
+  
+An example input for a single competition would be as follows (using data from August 30th 2020):  
 
 1  
 Tyler Hicks,24.27  
@@ -28,3 +30,5 @@ end of round
 
 When you are done entering results and want a point tally, type:  
 done with results
+
+This program does not save results, so the results for the entire month must be entered each time.  For an example of how to enter results for more than one round, please see "exampleInput.txt"

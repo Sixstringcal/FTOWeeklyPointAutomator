@@ -1,0 +1,74 @@
+1
+Tyler Hicks,34.13
+Aedan Bryant,34.29
+Michael Larsen,36.92
+Edward Dibley,38.46
+Calvin Nielson,48.74
+Peter Preston,49.93
+Kit Clement,50.25
+Lacey Dilworth,52.12
+Amelia Cheng,69.39
+end of round
+1
+Michael Larsen,30.58
+Aedan Bryant,31.07
+Edward Dibley,35.47
+Calvin Nielson,39.16
+Tyler Hicks,40.01
+Peter Preston,47.28
+Lacey Dilworth,48.93
+Kit Clement,49.38
+end of round
+1
+Aedan Bryant,30.70
+Michael Larsen,36.82
+Edward Dibley,36.89
+Peter Preston,44.86
+Calvin Nielson,45.76
+Lacey Dilworth,47.26
+Amelia Cheng,66.11
+Blake Thompson,70.36
+Vishwa Sankar,77.45
+Zachary Trudell,130.17
+end of round
+2
+Michael Larsen,28.42
+Edward Dibley,32.10
+Aedan Bryant,32.77
+Lacey Dilworth,57.24
+Amelia Cheng,62.16
+Vishwa Sankar,93.77
+end of round
+1
+Michael Larsen,31.49
+Tyler Hicks,34.42
+Edward Dibley,34.48
+Charles Jerome,36.43
+Calvin Nielson,39.74
+Lacey Dilworth,45.95
+Kit Clement,52.07
+Blake Thompson,57.04
+Amelia Cheng,58.81
+Vishwa Sankar,73.08
+end of round
+2
+Tyler Hicks,26.97
+Michael Larsen,31.84
+Calvin Nielson,34.43
+Charles Jerome,34.51
+Edward Dibley,35.74
+Lacey Dilworth,43.29
+Blake Thompson,51.93
+end of round
+1
+Tyler Hicks,24.27
+Michael Larsen,28.74
+Edward Dibley,28.75
+Calvin Nielson,35.20
+Nathan Lewis,52.21
+Lacey Dilworth,52.97
+Vishwa Sankar,54.09
+Amelia Cheng,61.87
+Samuel Rubinstein,105.16
+end of round
+done with results

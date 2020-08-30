@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Please enter the results for the round as described in README.md");
         String input = scanner.nextLine();
         while(!input.equals("done with results")){
-
+            int roundNumber = Integer.parseInt(input);
         }
     }
 }
